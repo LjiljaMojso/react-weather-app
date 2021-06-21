@@ -1,6 +1,5 @@
 {
   "short_name": "Weather App",
-  "name": "The Ultimate API Challenge Weather App",
   "icons": [
     {
       "src": "favicon.ico",
@@ -11,3 +10,4 @@
   "start_url": ".",
   "display": "standalone"
 }
+
